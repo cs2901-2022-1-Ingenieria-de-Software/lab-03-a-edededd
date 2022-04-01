@@ -30,6 +30,12 @@ public class ManageDemandTest {
         Assert.assertEquals(Math.round(result), 7.0);
     }
 
+    public void test_AllOrdersFromColombia() {
+        List<Order> ordersFromColombia = TestUtil.buildOrdersColombia();
+        double result = demand.calculateTotal(ordersFromColombia);
+        Assert.assertEquals(Math.round(result), 0.0);
+    }
+
     // Add Tests !!
 
 }
