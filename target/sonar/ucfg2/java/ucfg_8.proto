@@ -1,0 +1,36 @@
+
+:lab.demand.ManageDemand#finalCalculate(Ljava/util/List;D)DV
+L/home/luischahua/lab-03-a-edededd/src/main/java/lab/demand/ManageDemand.java ( "2*ì
+2V
+L/home/luischahua/lab-03-a-edededd/src/main/java/lab/demand/ManageDemand.java (Ñ
+Å
+V
+L/home/luischahua/lab-03-a-edededd/src/main/java/lab/demand/ManageDemand.java (
+orderlab.demand.Order"__id*
+""¶
+£
+V
+L/home/luischahua/lab-03-a-edededd/src/main/java/lab/demand/ManageDemand.java (
+orderlab.demand.Order"
+__arrayGet*
+
+ordersjava.util.List*
+""*
+3
+1*∞
+3V
+L/home/luischahua/lab-03-a-edededd/src/main/java/lab/demand/ManageDemand.java (Õ 
+V
+L/home/luischahua/lab-03-a-edededd/src/main/java/lab/demand/ManageDemand.java (-
+%0java.lang.Long".lab.demand.Order#getQuantity()Ljava/lang/Long;*
+
+orderlab.demand.Order2getQuantity()*
+2*Ω
+1V
+L/home/luischahua/lab-03-a-edededd/src/main/java/lab/demand/ManageDemand.java ("`
+V
+L/home/luischahua/lab-03-a-edededd/src/main/java/lab/demand/ManageDemand.java ("
+"":
+ordersjava.util.List:
+""B
+lab.demand.ManageDemand

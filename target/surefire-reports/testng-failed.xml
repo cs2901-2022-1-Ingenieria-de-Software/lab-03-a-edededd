@@ -5,7 +5,8 @@
     <classes>
       <class name="lab.TaxTest">
         <methods>
-          <include name="test_calculateTax"/>
+          <include name="test_count_calculate_tax"/>
+          <include name="setup"/>
         </methods>
       </class> <!-- lab.TaxTest -->
     </classes>

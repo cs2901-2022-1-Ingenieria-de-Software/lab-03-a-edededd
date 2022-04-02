@@ -2,30 +2,34 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-03-31T22:37:05 EDT" name="Command line suite" finished-at="2022-03-31T22:37:05 EDT" duration-ms="36">
+  <suite started-at="2022-04-01T21:23:46 EDT" name="Surefire suite" finished-at="2022-04-01T21:23:46 EDT" duration-ms="101">
     <groups>
     </groups>
-    <test started-at="2022-03-31T22:37:05 EDT" name="Command line test" finished-at="2022-03-31T22:37:05 EDT" duration-ms="36">
+    <test started-at="2022-04-01T21:23:46 EDT" name="Surefire test" finished-at="2022-04-01T21:23:46 EDT" duration-ms="101">
       <class name="lab.TaxTest">
-        <test-method signature="test_calculateTax()[pri:0, instance:lab.TaxTest@6e0e048a]" started-at="2022-03-31T22:37:05 EDT" name="test_calculateTax" finished-at="2022-03-31T22:37:05 EDT" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- test_calculateTax -->
-      </class> <!-- lab.TaxTest -->
-      <class name="lab.ManageDemandTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:lab.ManageDemandTest@5b87ed94]" started-at="2022-03-31T22:37:05 EDT" name="setup" finished-at="2022-03-31T22:37:05 EDT" duration-ms="13" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:lab.TaxTest@504e1599]" started-at="2022-04-01T21:23:46 EDT" name="setup" finished-at="2022-04-01T21:23:46 EDT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="test_AllOrdersFromColombia()[pri:0, instance:lab.ManageDemandTest@5b87ed94]" started-at="2022-03-31T22:37:05 EDT" name="test_AllOrdersFromColombia" finished-at="2022-03-31T22:37:05 EDT" duration-ms="3" status="PASS">
+        <test-method signature="test_validate_country_calculate_tax()[pri:0, instance:lab.TaxTest@504e1599]" started-at="2022-04-01T21:23:46 EDT" name="test_validate_country_calculate_tax" finished-at="2022-04-01T21:23:46 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_validate_country_calculate_tax -->
+      </class> <!-- lab.TaxTest -->
+      <class name="lab.ManageDemandTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:lab.ManageDemandTest@32f0c7f8]" started-at="2022-04-01T21:23:46 EDT" name="setup" finished-at="2022-04-01T21:23:46 EDT" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_AllOrdersFromColombia()[pri:0, instance:lab.ManageDemandTest@32f0c7f8]" started-at="2022-04-01T21:23:46 EDT" name="test_AllOrdersFromColombia" finished-at="2022-04-01T21:23:46 EDT" duration-ms="13" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_AllOrdersFromColombia -->
-        <test-method signature="test_AllOrdersFromPeru()[pri:0, instance:lab.ManageDemandTest@5b87ed94]" started-at="2022-03-31T22:37:05 EDT" name="test_AllOrdersFromPeru" finished-at="2022-03-31T22:37:05 EDT" duration-ms="0" status="PASS">
+        <test-method signature="test_AllOrdersFromPeru()[pri:0, instance:lab.ManageDemandTest@32f0c7f8]" started-at="2022-04-01T21:23:46 EDT" name="test_AllOrdersFromPeru" finished-at="2022-04-01T21:23:46 EDT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_AllOrdersFromPeru -->
       </class> <!-- lab.ManageDemandTest -->
-    </test> <!-- Command line test -->
-  </suite> <!-- Command line suite -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
 </testng-results>

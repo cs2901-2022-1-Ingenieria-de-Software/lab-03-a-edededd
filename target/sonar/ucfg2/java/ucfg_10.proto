@@ -1,0 +1,67 @@
+
+Vlab.demand.ManageDemand#calculateTotalForWithAdditionalByCountry(Ljava/util/List;DDD)DV
+L/home/luischahua/lab-03-a-edededd/src/main/java/lab/demand/ManageDemand.java% %(:"2*ì
+2V
+L/home/luischahua/lab-03-a-edededd/src/main/java/lab/demand/ManageDemand.java) )(Ñ
+Å
+V
+L/home/luischahua/lab-03-a-edededd/src/main/java/lab/demand/ManageDemand.java) )(
+orderlab.demand.Order"__id*
+""¶
+£
+V
+L/home/luischahua/lab-03-a-edededd/src/main/java/lab/demand/ManageDemand.java) )(
+orderlab.demand.Order"
+__arrayGet*
+
+ordersjava.util.List*
+""*
+7
+1*¬
+5V
+L/home/luischahua/lab-03-a-edededd/src/main/java/lab/demand/ManageDemand.java- -("ﬂ‹
+V
+L/home/luischahua/lab-03-a-edededd/src/main/java/lab/demand/ManageDemand.java- -(/
+%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*!
+
+currCountryjava.lang.String*
+BR2equals(Ljava/lang/Object;)*
+2*∂
+7V
+L/home/luischahua/lab-03-a-edededd/src/main/java/lab/demand/ManageDemand.java*! *(&œÃ
+V
+L/home/luischahua/lab-03-a-edededd/src/main/java/lab/demand/ManageDemand.java*! *(3
+%0java.lang.String"/lab.demand.Order#getCountry()Ljava/lang/String;*
+
+orderlab.demand.Order2getCountry()ú
+ô
+V
+L/home/luischahua/lab-03-a-edededd/src/main/java/lab/demand/ManageDemand.java* *(4
+currCountryjava.lang.String"__id*
+
+%0java.lang.Stringﬂ‹
+V
+L/home/luischahua/lab-03-a-edededd/src/main/java/lab/demand/ManageDemand.java+ +((
+%1boolean",java.lang.String#equals(Ljava/lang/Object;)Z*!
+
+currCountryjava.lang.String*
+PE2equals(Ljava/lang/Object;)*
+2
+5*…
+1V
+L/home/luischahua/lab-03-a-edededd/src/main/java/lab/demand/ManageDemand.java5 5(âÜ
+V
+L/home/luischahua/lab-03-a-edededd/src/main/java/lab/demand/ManageDemand.java5 5(+
+%3double":lab.demand.ManageDemand#finalCalculate(Ljava/util/List;D)D*
+lab.demand.ManageDemand*
+
+ordersjava.util.List*
+""2!finalCalculate(Ljava/util/List;D)"`
+V
+L/home/luischahua/lab-03-a-edededd/src/main/java/lab/demand/ManageDemand.java5 5(,
+"":
+ordersjava.util.List:
+"":
+"":
+""B
+lab.demand.ManageDemand

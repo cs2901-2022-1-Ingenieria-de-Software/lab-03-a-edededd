@@ -25,7 +25,7 @@ public class TestUtil {
         List<Order> orders = new ArrayList<Order>();
         orders.add(new Order("CO", 12L));
         orders.add(new Order("PE", 13L));
-        orders.add(new Order("CH", 14L));
+        orders.add(new Order("BR", 14L));
         return orders;
     }
 
